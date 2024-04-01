@@ -1,8 +1,5 @@
-# About Me
-
-[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ6a255Nm96N2RjN2xnMzY5eDNjbjU1NmRlazg0ZjJuOGVvMTg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif] 
 <h1 align="center">Hi 👋, I'm Nobin Sijo</h1>
-<h3 align="center">A passionate</h3>
+<h3 align="center">Passionate Data Scientist | GCP Developer | UI/UX Designer | Python & R Wizard | Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [FuzzyURLs](https://github.com/WhiteCode77T/Saturday-Hacknight-Django)
 
@@ -16,7 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/nobinsijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobinsijo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nobin sijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nobin sijo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23726917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23726917" height="30" width="40" /></a>
+<a href="https://fb.com/nobin sijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nobin sijo" height="30" width="40" /></a>
 <a href="https://instagram.com/_phobiccnobin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_phobiccnobin_" height="30" width="40" /></a>
+<a href="https://medium.com/@nobinsijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nobinsijo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nobinsijo360t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nobinsijo360t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
