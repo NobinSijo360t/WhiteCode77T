@@ -1,4 +1,4 @@
-<h1 align="center">![designsemnome1](https://media1.tenor.com/m/kqlEI-zeRL4AAAAC/pixelart.gif)
+![designsemnome1](https://media1.tenor.com/m/kqlEI-zeRL4AAAAC/pixelart.gif)
 <h1 align="center">Hi 👋, I'm Nobin Sijo</h1>
 <h3 align="center">Passionate Data Scientist | GCP Developer | UI/UX Designer | Python & R Wizard | Machine Learning Enthusiast</h3>
 
