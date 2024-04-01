@@ -1,4 +1,4 @@
-(https://github.com/WhiteCode77T/WhiteCode77T/blob/main/Designer%20(1).png)
+ ![designsemnome1](https://github.com/WhiteCode77T/WhiteCode77T/blob/main/Designer%20(1).png)
 <h1 align="center">Hi 👋, I'm Nobin Sijo</h1>
 <h3 align="center">Passionate Data Scientist | GCP Developer | UI/UX Designer | Python & R Wizard | Machine Learning Enthusiast</h3>
 
