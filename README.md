@@ -1,6 +1,6 @@
 # About Me
 
-[Imagen of Poly Art Coding Room]  Hi! I'm [Your Name]. I'm a passionate programmer with a drive to [Your Programming Goal].  
+[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ6a255Nm96N2RjN2xnMzY5eDNjbjU1NmRlazg0ZjJuOGVvMTg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif]  Hi! I'm [Your Name]. I'm a passionate programmer with a drive to [Your Programming Goal].  
 
 **Skills**
 
