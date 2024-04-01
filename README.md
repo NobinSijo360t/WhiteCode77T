@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js , Next.js, IBM Watson Studio,Tensorflow**
 
-- 👨‍💻 All of my projects are available at [my GitHub account](my GitHub account)
+- 👨‍💻 All of my projects are available at through my GitHub account
 
 - 💬 Ask me about **C,Figma,TypeScript,Expo,Python and Jupyter Notebooks**
 
