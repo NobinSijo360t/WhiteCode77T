@@ -5,17 +5,24 @@
 **Skills**
 
 I'm proficient in a variety of programming languages and tools:
+## Skills
 
-* **Cloud:** [Imagen of Google Cloud Platform Logo] (GCP)
-* **Frontend:**  
-    *  [Imagen of Typescript Logo] (TypeScript)
-* **Backend:**  
-    *  [Imagen of Python Logo] (Python)
-    *  [Imagen of Expo Logo] (Expo)
-* **Data Analysis:**  
-    *   (Pandas)
-* **Data Science:**  
-    *   (Jupyter Notebook)
+**Programming Languages:**
+
+* **Python** [![Python Logo](https://www.python.org/static/img/python-logo.svg)]
+* **Typescript** [![Typescript Logo](https://typescriptlang.org/assets/typescript.svg)]
+
+**Frameworks & Libraries:**
+
+* **Google Cloud Platform (GCP)** [![GCP Logo](https://cloud.google.com/static/images/cloud/gcp-logo-only.png)]
+* **Expo** [![Expo Logo](https://expo.dev/static/assets/favicon-32.png)]
+* **Pandas** [![Pandas Logo](https://pandas.pydata.org/_static/pandas.svg)]
+
+**UI/UX Design:**
+
+* **Figma** [![Figma Logo](https://www.figma.com/resources/assets/Figma-Icon-16x16.png)]
+* **Adobe XD** [![Adobe XD Logo](https://www.adobe.com/content/dam/www/en/design/brand/adobe-xd-logo.svg)]
+* **Adobe Illustrator** [![Adobe Illustrator Logo](https://www.adobe.com/content/dam/www/en/design/brand/illustrator-cc-logo.svg)]
 
 **Looking to:**
 
