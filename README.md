@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C,Figma,TypeScript,Expo,Python and Jupyter Notebooks**
 
-- 📫 How to reach me **nobinsijo@protonmail.com**
+- 📫 How to reach me **nobinsijo360t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
